@@ -2,7 +2,7 @@
 
 # About
 
-*differential network traffic anomaly analysis tools.*
+*Traffic-Taffy tools perform differential network traffic anomaly analysis.*
 
 # Further information:
 

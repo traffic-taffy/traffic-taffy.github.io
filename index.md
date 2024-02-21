@@ -1,5 +1,7 @@
 Traffic-Taffy: differential PCAP anomoly analysis tools
 
+<img src="images/logo.png" align="right" />
+
 Important links:
 
 * The [github source repository](https://github.com/traffic-taffy/traffic-taffy)

@@ -7,7 +7,7 @@
 # Further information:
 
 * The [github source repository](https://github.com/traffic-taffy/traffic-taffy)
-* [Usage documentation](https://traffic-taffy.readthedocs.io/en/latest/
+* [Usage documentation](https://traffic-taffy.readthedocs.io/en/latest/)
     * [A worked usage case study](https://traffic-taffy.readthedocs.io/en/latest/casestudy.html)
     * [Getting started information](https://traffic-taffy.readthedocs.io/en/latest/gettingstarted.html)
 * The [pypi page](https://pypi.org/project/traffic-taffy/)

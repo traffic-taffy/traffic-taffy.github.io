@@ -19,6 +19,9 @@
 
 # Major ChangeLog events
 
+- 0.8.5:
+    - Added support for reporting a number of IANA numeric->name translations
+
 - 0.8:
     - Note that the -x switch to limit the list of results has been moved to -R.
     - Added ip2asn and psl (public suffix list) extra processing modules that can be enabled with a new -x switch.

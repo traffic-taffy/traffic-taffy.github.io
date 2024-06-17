@@ -14,7 +14,9 @@
 
 # Presentations about traffic-taffy:
 
-* DNS-OARC 42: [Video](https://www.youtube.com/watch?v=5CG-RZhzNBM)
+* Background at an ICANN security workshop:
+  [Video](https://youtu.be/0VG6_nNBO1s) and [slides](https://ant.isi.edu/~hardaker/presentations/dnssec-workshop-traffic-taffy-hardaker.pdf)
+* More detailed usage at DNS-OARC 42: [Video](https://www.youtube.com/watch?v=5CG-RZhzNBM)
   and [slides](https://indico.dns-oarc.net/event/48/contributions/1034/attachments/999/1968/oarc42-hardaker-taffy.pdf)
 
 # Major ChangeLog events

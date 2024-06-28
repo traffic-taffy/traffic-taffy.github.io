@@ -2,7 +2,13 @@
 
 # About
 
-*Traffic-Taffy tools perform differential network traffic anomaly analysis.*
+Traffic-Taffy tools perform differential network traffic anomaly analysis.
+
+It was created by [Wes Hardaker], a computer scientist at [USC/ISI], with support from the Comcast
+Innovation Fund.
+
+[Wes Hardaker]: https://ant.isi.edu/~hardaker/
+[USC/ISI]: https://www.isi.edu/
 
 # Further information:
 

@@ -22,6 +22,8 @@ Innovation Fund.
 
 * Background at an ICANN security workshop:
   [Video](https://youtu.be/0VG6_nNBO1s) and [slides](https://ant.isi.edu/~hardaker/presentations/dnssec-workshop-traffic-taffy-hardaker.pdf)
+* Very short overview at IETF-120 in MAPRG:
+  [Video](https://youtu.be/pzXLJe6QOc4?si=FqJV-5pYRln-0lLD&t=5867) and [slides](https://datatracker.ietf.org/meeting/120/materials/slides-120-maprg-understanding-anomalies-using-a-baseline-dataset-comparison)
 * More detailed usage at DNS-OARC 42: [Video](https://www.youtube.com/watch?v=5CG-RZhzNBM)
   and [slides](https://indico.dns-oarc.net/event/48/contributions/1034/attachments/999/1968/oarc42-hardaker-taffy.pdf)
 
